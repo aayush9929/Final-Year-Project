@@ -1,0 +1,307 @@
+Age,Sex,Area of Residence ,HbA1c,Height,Weight,BMI,BMI,Duration of disease,Other diease,Adequate Nutrition ,Education of Mother,Standardized growth-rate in infancy,Standardized birth weight,Autoantibodies,Impaired glucose metabolism ,Insulin taken,How Taken,Family History affected in Type 1 Diabetes,Family History affected in Type 2 Diabetes,Hypoglycemis,pancreatic disease affected in child ,Affected,Duration of disease
+greater then 15,Female,Suburban,Over 7.5%,1.5,56,24.89,24.88888889,4y,no,No,No,Middle quartiles,Middle quartiles,Yes,Yes,Yes,Injection,Yes,No,Yes,Yes,yes,208
+greater then 15,Female,Suburban,Over 7.5%,1.48,58,26.48,26.47918188,1w,no,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,1
+Less then 11,Female,Urban,Over 7.5%,1.2,46,31.94,31.94444444,9d,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,No,No,No,yes,1
+Less then 15,Female,Suburban,Over 7.5%,1.65,50,18.37,18.36547291,1w,no,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,No,No,yes,1
+Less then 15,Female,Suburban,Over 7.5%,1.61,59,22.76,22.76146754,1m,liver problem,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,No,No,yes,4
+Less then 15,Male,Rural,Over 7.5%,1.32,26,14.92,14.92194674,1.5y,"heart, head problem",No,No,Lowest quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,No,yes,78
+greater then 15,Female,Rural,Over 7.5%,1.4,45,22.96,22.95918367,16y,ear problem,No,No,Lowest quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,Yes,yes,832
+greater then 15,Female,Rural,Over 7.5%,1.55,50,20.81,20.81165453,6y,no,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,Yes,yes,312
+greater then 15,Female,Suburban,Over 7.5%,1.61,54,20.83,20.83252961,5y,leg problem,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,Yes,Yes,yes,260
+greater then 15,Female,Suburban,Over 7.5%,1.59,50,19.78,19.77769867,10y,eye problem,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,520
+greater then 15,Male,Suburban,Over 7.5%,1.62,52,19.81,19.81405274,8y,no,Yes,No,Highest quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,Yes,No,yes,416
+greater then 15,Female,Suburban,Less then 7.5%,1.64,52,19.33,19.33372992,9y,no,Yes,No,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,468
+greater then 15,Male,Suburban,Less then 7.5%,1.71,52,17.78,17.78324955,6y,no,Yes,No,Highest quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,Yes,yes,312
+greater then 15,Female,Rural,Less then 7.5%,1.59,53,20.96,20.96436059,8y,eye problem,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,No,yes,416
+Less then 11,Male,Rural,Over 7.5%,1.5,48,21.33,21.33333333,4y,no,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,No,Yes,yes,208
+greater then 15,Female,Suburban,Over 7.5%,1.62,60,22.86,22.86236854,2.5y,Thyroid problem,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,130
+Less then 15,Female,Suburban,Over 7.5%,1.58,69,27.64,27.63980131,3y, Allergic  problem,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,Yes,No,yes,156
+greater then 15,Male,Rural,Over 7.5%,1.61,49,18.9,18.90359168,6y,no,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,Yes,Yes,yes,312
+greater then 15,Female,Suburban,Less then 7.5%,1.44,55,26.52,26.52391975,7y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,Yes,No,yes,364
+greater then 15,Male,Suburban,Over 7.5%,1.63,53,19.95,19.94805977,2y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,Yes,No,yes,104
+greater then 15,Male,Suburban,Over 7.5%,1.61,46,17.75,17.74622893,2y,body pain,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,No,yes,104
+greater then 15,Female,Urban,Over 7.5%,1.53,68,29.05,29.0486565,11y,Thyroid problem,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,Yes,Yes,yes,572
+greater then 15,Female,Urban,Over 7.5%,1.57,47,19.07,19.06771066,4.5y,"kidney, head pain ",Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,234
+Less then 11,Female,Suburban,Over 7.5%,1.29,34,20.43,20.43146446,8m,heartbeat problem,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,32
+greater then 15,Female,Suburban,Over 7.5%,1.52,46,19.91,19.9099723,16y,belly problem,No,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,No,Yes,yes,832
+Less then 5,Female,Suburban,Less then 7.5%,1.32,40,22.96,22.95684114,1.5y,heart problem,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,No,Yes,yes,78
+greater then 15,Female,Suburban,Over 7.5%,1.59,60,23.73,23.7332384,3.5y, no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,No,yes,182
+greater then 15,Female,Suburban,Less then 7.5%,1.63,58,21.83,21.8299522,6y, no,Yes,No,Highest quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,No,No,yes,312
+greater then 15,Female,Rural,Over 7.5%,1.5,49,21.78,21.77777778,3.5y, body pain,No,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,No,No,yes,182
+greater then 15,Female,Urban,Over 7.5%,1.37,30,15.98,15.98380308,3y,allergic problem,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,No,No,No,yes,156
+Less then 11,Female,Suburban,Over 7.5%,1.39,39,20.19,20.18529062,1y,"gastic,body pain",Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,Yes,yes,52
+greater then 15,Male,Rural,Less then 7.5%,1.58,62,24.84,24.8357635,8y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,No,No,yes,416
+greater then 15,Female,Suburban,Over 7.5%,1.58,62,24.84,24.8357635,6y,head pain,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,No,No,yes,312
+greater then 15,Female,Suburban,Over 7.5%,1.63,50,18.82,18.81892431,8y,body pain,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,No,No,yes,416
+greater then 15,Female,Suburban,Over 7.5%,1.53,63,26.91,26.91272587,13y,no,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,676
+greater then 15,Male,Suburban,Less then 7.5%,1.76,60,19.37,19.36983471,2y,no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,Yes,No,No,yes,104
+Less then 15,Male,Suburban,Less then 7.5%,1.49,53,23.87,23.87279852,1y,no,No,Yes,Middle quartiles,Middle quartiles,No,Yes,Yes,Injection,Yes,Yes,No,No,yes,52
+Less then 15,Male,Rural,Less then 7.5%,1.42,55,27.28,27.27633406,1.5y,no,No,No,Middle quartiles,Lowest quartiles,No,Yes,Yes,Injection,Yes,Yes,Yes,Yes,yes,78
+greater then 15,Male,Suburban,Over 7.5%,1.61,42,16.2,16.20307858,4y,no,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,No,Yes,yes,208
+greater then 15,Male,Rural,Over 7.5%,1.71,57,19.49,19.49317739,4y,no,Yes,No,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,No,No,yes,208
+Less then 15,Female,Rural,Over 7.5%,1.53,44,18.8,18.7961895,4y,eye problem,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,208
+greater then 15,Female,Suburban,Over 7.5%,1.55,56,23.31,23.30905307,6y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,Yes,No,yes,312
+Less then 15,Female,Rural,Over 7.5%,1.31,34,19.81,19.81236525,7d,no,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,No,Yes,yes,1
+Less then 15,Female,Rural,Over 7.5%,1.3,45,26.63,26.62721893,7y,no,No,No,Middle quartiles,Middle quartiles,Yes,Yes,Yes,Injection,Yes,Yes,Yes,No,yes,364
+Less then 5,Male,Rural,Over 7.5%,1.01,14,13.72,13.72414469,5m,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,No,yes,20
+Less then 15,Male,Rural,Over 7.5%,1.49,42,18.92,18.91806675,7m,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,No,yes,28
+greater then 15,Male,Urban,Over 7.5%,1.42,53,26.28,26.28446737,16d,Birth Defects,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,2
+greater then 15,Male,Rural,Over 7.5%,1.53,47,20.08,20.07774787,5y,eye problem,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,260
+greater then 15,Female,Rural,Less then 7.5%,1.68,50,17.72,17.7154195,5y,no,Yes,No,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,No,No,No,yes,260
+greater then 15,Male,Suburban,Less then 7.5%,1.78,59,18.62,18.62138619,12y,no,No,No,Middle quartiles,Highest quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,624
+greater then 15,Female,Rural,Less then 7.5%,1.78,59,18.62,18.62138619,5m,no,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,No,No,yes,20
+Less then 15,Female,Urban,Over 7.5%,1.45,41,19.5,19.50059453,8y,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,No,yes,416
+Less then 15,Male,Rural,Over 7.5%,1.64,64,23.8,23.7953599,1y,no,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,Yes,Yes,yes,52
+Less then 15,Male,Rural,Over 7.5%,1.58,38,15.22,15.22191956,1y,head pain,Yes,No,Middle quartiles,Lowest quartiles,Yes,No,Yes,Injection,No,Yes,No,Yes,yes,52
+Less then 11,Male,Suburban,Over 7.5%,1.22,22,14.78,14.78097286,5y,eye problem,No,No,Middle quartiles,Lowest quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,260
+greater then 15,Male,Suburban,Over 7.5%,1.32,45,25.83,25.82644628,9y,no,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,No,yes,468
+greater then 15,Male,Rural,Over 7.5%,1.58,45,18.03,18.02595738,7y,eye problem,Yes,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,Yes,yes,364
+Less then 15,Female,Suburban,Over 7.5%,1.57,62,25.15,25.15315023,1m,no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,No,Yes,yes,4
+greater then 15,Male,Suburban,Over 7.5%,1.5,49,21.78,21.77777778,6y,no,Yes,No,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,No,No,yes,312
+greater then 15,Female,Rural,Over 7.5%,1.42,49,24.3,24.30073398,7y,no,No,Yes,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,No,yes,364
+greater then 15,Female,Rural,Over 7.5%,1.43,53,25.92,25.91813781,5y,Head pain,No,No,Middle quartiles,Highest quartiles,No,No,Yes,Injection,No,Yes,Yes,Yes,yes,260
+greater then 15,Female,Urban,Over 7.5%,1.6,60,23.44,23.4375,4y,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,208
+greater then 15,Female,Rural,Over 7.5%,1.57,38,15.42,15.41644691,4y,belly problem,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,208
+greater then 15,Female,Urban,Over 7.5%,1.49,36,16.22,16.21548579,5y,belly problem,No,Yes,Middle quartiles,Lowest quartiles,No,No,Yes,Injection,No,Yes,Yes,Yes,yes,260
+greater then 15,Male,Rural,Over 7.5%,1.55,65,27.06,27.05515088,5y,no,Yes,No,Middle quartiles,Lowest quartiles,No,No,Yes,Injection,No,Yes,Yes,No,yes,260
+greater then 15,Female,Suburban,Less then 7.5%,1.45,42,19.98,19.97621879,6y,no,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,No,yes,312
+Less then 15,Female,Rural,Less then 7.5%,1.55,46,19.15,19.14672216,7m,no,No,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,No,No,yes,28
+greater then 15,Male,Rural,Over 7.5%,1.35,45,24.69,24.69135802,5y,fiver problem,No,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,No,No,yes,260
+greater then 15,Female,Urban,Less then 7.5%,1.52,35,15.15,15.14889197,3y,"head, body pain",Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,156
+greater then 15,Female,Urban,Less then 7.5%,1.53,39,16.66,16.66025887,4.5y,body pain,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,Yes,No,yes,234
+greater then 15,Male,Rural,Less then 7.5%,1.68,45,15.94,15.94387755,7y,Head pain,Yes,No,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,No,Yes,No,yes,364
+greater then 15,Female,Rural,Less then 7.5%,1.55,57,23.73,23.72528616,6y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,312
+greater then 15,Female,Rural,Less then 7.5%,1.52,85,36.79,36.7901662,13y,no,No,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,676
+greater then 15,Male,Rural,Over 7.5%,1.63,40,15.06,15.05513945,8y,no,No,No,Highest quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,416
+greater then 15,Female,Rural,Over 7.5%,1.4,30,15.31,15.30612245,15y,"eye, health loss",No,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,Yes,yes,780
+greater then 15,Female,Urban,Less then 7.5%,1.51,55,24.12,24.12174905,2.5y,pressure problem,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,No,No,yes,130
+greater then 15,Male,Suburban,Less then 7.5%,1.63,62,23.34,23.33546614,2.5y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,No,Yes,yes,130
+Less then 11,Female,Rural,Less then 7.5%,1.5,46,20.44,20.44444444,1y,no,No,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,52
+Less then 11,Female,Rural,Less then 7.5%,1.46,40,18.77,18.76524676,4y,no,No,No,Lowest quartiles,Middle quartiles,No,No,Yes,Injection,No,No,No,No,yes,208
+Less then 15,Female,Suburban,Over 7.5%,1.83,85,25.38,25.38146854,4y,no,No,Yes,Highest quartiles,Highest quartiles,Yes,Yes,Yes,Injection,Yes,Yes,No,No,yes,208
+greater then 15,Female,Suburban,Over 7.5%,1.58,78,31.24,31.24499279,7y,head pain,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,364
+Less then 11,Male,Suburban,Less then 7.5%,1.27,26,16.12,16.12003224,1y,fever,No,Yes,Middle quartiles,Highest quartiles,No,No,Yes,Injection,No,Yes,No,Yes,yes,52
+greater then 15,Male,Rural,Over 7.5%,1.65,60,22.04,22.03856749,1y,fever,No,No,Middle quartiles,Lowest quartiles,Yes,No,Yes,Injection,Yes,Yes,No,Yes,yes,52
+Less then 15,Female,Rural,Over 7.5%,1.42,51,25.29,25.29260067,8y,no,No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,No,yes,416
+Less then 11,Female,Rural,Less then 7.5%,1.21,32,21.86,21.85643057,1m,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,4
+greater then 15,Female,Urban,Over 7.5%,1.32,26,14.92,14.92194674,3m,Thalassemia,No,Yes,Lowest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,No,yes,12
+Less then 15,Female,Urban,Over 7.5%,1.46,53,24.86,24.86395196,1y,convulsion,No,No,Middle quartiles,Lowest quartiles,No,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,52
+greater then 15,Female,Urban,Over 7.5%,1.62,85,32.39,32.38835543,5y,head pain,No,No,Highest quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,Yes,No,Yes,yes,260
+Less then 15,Female,Suburban,Over 7.5%,1.68,61,21.61,21.61281179,1y,no,Yes,No,Highest quartiles,Middle quartiles,No,Yes,Yes,Injection,Yes,Yes,No,No,yes,52
+Less then 15,Male,Suburban,Over 7.5%,1.58,69,27.64,27.63980131,6y,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,312
+Less then 15,Female,Suburban,Over 7.5%,1.44,46,22.18,22.18364198,10m,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,No,No,yes,40
+greater then 15,Female,Suburban,Over 7.5%,1.58,57,22.83,22.83287935,11m,"eye, pain problem",No,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,No,No,No,yes,44
+Less then 15,Female,Rural,Over 7.5%,1.48,48,21.91,21.9138057,2y,"body,head pain",No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,No,yes,104
+greater then 15,Male,Urban,Less then 7.5%,1.62,64,24.39,24.38652644,5y,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,No,No,No,yes,260
+Less then 15,Female,Urban,Over 7.5%,1.5,77,34.22,34.22222222,4y,no,No,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,No,No,yes,208
+greater then 15,Female,Rural,Less then 7.5%,1.2,40,27.78,27.77777778,2y,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,No,yes,104
+greater then 15,Male,Suburban,Over 7.5%,1.58,43,17.22,17.22480372,7y,belly problem,No,No,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,No,Yes,yes,364
+Less then 15,Female,Urban,Less then 7.5%,1.45,61,29.01,29.01307967,9m,belly problem,No,Yes,Middle quartiles,Highest quartiles,Yes,Yes,Yes,Injection,No,Yes,No,No,yes,36
+greater then 15,Female,Urban,Over 7.5%,1.55,66,27.47,27.47138398,2y,no,No,Yes,Middle quartiles,Highest quartiles,No,Yes,Yes,Injection,No,Yes,No,No,yes,104
+greater then 15,Male,Suburban,Over 7.5%,1.65,55,20.2,20.2020202,6y,no,No,No,Middle quartiles,Highest quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,312
+greater then 15,Female,Urban,Over 7.5%,1.46,34,15.95,15.95045975,9y,no,No,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,Yes,Yes,Yes,No,yes,468
+Less then 15,Male,Rural,Over 7.5%,1.36,28,15.14,15.1384083,2y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,Yes,No,yes,104
+greater then 15,Male,Suburban,Over 7.5%,1.6,45,17.58,17.578125,2y,no,No,No,Lowest quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,No,No,yes,104
+Less then 5,Female,Urban,Over 7.5%,1.07,18,15.72,15.72189711,2y,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,No,No,yes,104
+greater then 15,Female,Rural,Less then 7.5%,1.5,46,20.44,20.44444444,2y,no,No,Yes,Lowest quartiles,Lowest quartiles,Yes,No,Yes,Injection,Yes,Yes,No,No,yes,104
+greater then 15,Female,Rural,Over 7.5%,1.56,60,24.65,24.65483235,2y,eye problem,No,Yes,Highest quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,No,No,yes,104
+greater then 15,Male,Suburban,Less then 7.5%,1.39,45,23.29,23.29071994,3y,ear problem,No,Yes,Lowest quartiles,unkhown,No,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,156
+Less then 15,Female,Rural,Over 7.5%,1.56,51,20.96,20.9566075,2y,no,No,Yes,Middle quartiles,unkhown,No,Yes,Yes,Injection,Yes,No,Yes,Yes,yes,104
+Less then 15,Female,Rural,Over 7.5%,1.38,23,12.08,12.07729469,1y,no,Yes,No,Lowest quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,No,Yes,Yes,yes,52
+greater then 15,Female,Suburban,Over 7.5%,1.52,55,23.81,23.80540166,3y,no,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,Yes,Yes,No,yes,156
+greater then 15,Female,Rural,Over 7.5%,1.51,44,19.3,19.29739924,5y,no,Yes,No,Middle quartiles,unkhown,No,Yes,Yes,Injection,Yes,Yes,Yes,Yes,yes,260
+Less then 11,Female,Rural,Over 7.5%,1.48,32,14.61,14.6092038,1y,no,No,No,Middle quartiles,unkhown,Yes,Yes,Yes,Injection,No,No,Yes,Yes,yes,52
+greater then 15,Male,Urban,Over 7.5%,1.6,45,17.58,17.578125,5y,fever problem,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,Yes,yes,260
+greater then 15,Female,Rural,Less then 7.5%,1.35,45,24.69,24.69135802,6y,no,Yes,No,Lowest quartiles,Highest quartiles,Yes,No,Yes,Injection,No,Yes,Yes,Yes,yes,312
+greater then 15,Male,Urban,Over 7.5%,1.65,55,20.2,20.2020202,3y,skin problem,Yes,Yes,Middle quartiles,Highest quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,156
+Less then 11,Female,Urban,Over 7.5%,1.32,35,20.09,20.087236,8m,"eye, cyrocities ",No,Yes,Middle quartiles,Highest quartiles,No,Yes,Yes,Injection,No,Yes,Yes,Yes,yes,32
+greater then 15,Male,Suburban,Over 7.5%,1.55,45,18.73,18.73048907,2y,leg pain,Yes,Yes,Lowest quartiles,Lowest quartiles,Yes,No,Yes,Injection,No,Yes,Yes,Yes,yes,104
+Less then 11,Female,Suburban,Over 7.5%,1.43,41,20.05,20.04988019,2y,no,Yes,No,Middle quartiles,unkhown,Yes,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,104
+greater then 15,Female,Rural,Less then 7.5%,1.56,45,18.49,18.49112426,10y,"eye, screen problem",No,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,Yes,Yes,yes,520
+greater then 15,Male,Rural,Less then 7.5%,1.46,32,15.01,15.01219741,1y,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,No,Yes,Yes,yes,52
+greater then 15,Female,Suburban,Over 7.5%,1.48,35,15.98,15.97881665,7y,fever problem,No,No,Middle quartiles,Middle quartiles,No,Yes,Yes,Injection,Yes,No,Yes,No,yes,364
+greater then 15,Female,Rural,Over 7.5%,1.46,38,17.83,17.82698442,1y,no,Yes,No,Middle quartiles,unkhown,No,Yes,Yes,Injection,No,Yes,Yes,Yes,yes,52
+greater then 15,Male,Rural,Less then 7.5%,1.6,87,33.98,33.984375,11y,no,Yes,No,Middle quartiles,Middle quartiles,No,Yes,Yes,Injection,No,Yes,Yes,Yes,yes,572
+greater then 15,Male,Rural,Over 7.5%,1.61,52,20.06,20.06095444,3y,no,No,No,Highest quartiles,Middle quartiles,Yes,Yes,Yes,Injection,Yes,No,No,Yes,yes,156
+greater then 15,Male,Urban,Over 7.5%,1.72,53,17.92,17.91508924,9y,leg pain,Yes,Yes,Middle quartiles,Middle quartiles,No,No,Yes,Injection,No,No,No,No,yes,468
+greater then 15,Male,Rural,Over 7.5%,1.68,48,17.01,17.00680272,15y,"Brain, eye, hormon",No,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,780
+Less then 11,Male,Urban,Less then 7.5%,1.32,27,15.5,15.49586777,4y,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,No,Yes,Yes,yes,208
+greater then 15,Male,Rural,Over 7.5%,1.43,52,25.43,25.42911634,8y,"teeth, eye problem",No,No,Middle quartiles,Middle quartiles,No,Yes,Yes,Injection,Yes,Yes,Yes,Yes,yes,416
+Less then 11,Male,Rural,Over 7.5%,1.3,20,11.83,11.83431953,3y,fever problem,No,No,Lowest quartiles,Lowest quartiles,No,No,Yes,Injection,No,No,Yes,No,yes,156
+Less then 15,Male,Suburban,Over 7.5%,1.5,36,16,16,1m,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,No,No,Yes,yes,4
+greater then 15,Female,Rural,Over 7.5%,1.53,48,20.5,20.504934,5y,skin problem,Yes,Yes,Highest quartiles,Highest quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,260
+greater then 15,Male,Suburban,Over 7.5%,1.68,63,22.32,22.32142857,8m,skin problem,No,Yes,Middle quartiles,unkhown,Yes,No,Yes,Injection,Yes,Yes,No,Yes,yes,32
+Less then 5,Male,Suburban,Over 7.5%,1.5,50,22.22,22.22222222,2m,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,Yes,Yes,Yes,Yes,yes,8
+greater then 15,Female,Rural,Over 7.5%,1.63,50,18.82,18.81892431,10y,no,No,No,Lowest quartiles,unkhown,Yes,No,Yes,Injection,No,Yes,No,Yes,yes,520
+Less then 11,Male,Rural,Over 7.5%,1.56,50,20.55,20.54569362,5m,no,Yes,No,Lowest quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,20
+greater then 15,Female,Urban,Less then 7.5%,1.47,70,32.39,32.39390994,13y,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,676
+Less then 11,Female,Rural,Over 7.5%,1.24,20,13.01,13.00728408,15d,no,Yes,No,Middle quartiles,unkhown,Yes,No,Yes,Injection,Yes,No,Yes,Yes,yes,2
+greater then 15,Male,Rural,Less then 7.5%,1.63,50,18.82,18.81892431,7y,no,Yes,No,Lowest quartiles,unkhown,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,364
+greater then 15,Male,Rural,Over 7.5%,1.63,44,16.56,16.56065339,6y,no,No,No,Middle quartiles,unkhown,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,312
+greater then 15,Female,Suburban,Less then 7.5%,1.6,56,21.88,21.875,10y,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,Yes,Yes,Yes,yes,520
+greater then 15,Female,Urban,Less then 7.5%,1.52,55,23.81,23.80540166,3y,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,Yes,yes,156
+greater then 15,Female,Suburban,Over 7.5%,1.52,71,30.73,30.73060942,9y,no,Yes,No,Lowest quartiles,Lowest quartiles,Yes,No,Yes,Injection,Yes,No,No,Yes,yes,468
+greater then 15,Male,Rural,Over 7.5%,1.65,56,20.57,20.56932966,8.6y,no,Yes,No,Middle quartiles,unkhown,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,447.2
+Less then 11,Male,Urban,Over 7.5%,1.52,35,15.15,15.14889197,4y,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,208
+Less then 11,Female,Rural,Over 7.5%,1.39,29,15.01,15.00957507,2m,no,No,Yes,Highest quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,No,Yes,Yes,yes,8
+greater then 15,Male,Suburban,Over 7.5%,1.6,47,18.36,18.359375,11y,kidny problem,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,572
+Less then 11,Female,Suburban,Less then 7.5%,1.2,28,19.44,19.44444444,5y,"eye, ear problem",No,Yes,Middle quartiles,Highest quartiles,Yes,No,Yes,Injection,No,Yes,Yes,Yes,yes,260
+Less then 11,Male,Suburban,Over 7.5%,1.19,21,14.83,14.8294612,2y,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,Yes,Yes,Yes,yes,104
+Less then 15,Female,Rural,Less then 7.5%,1.47,46,21.29,21.28742654,6y,"eye, allergy",Yes,No,Middle quartiles,Middle quartiles,Yes,No,Yes,Injection,No,No,Yes,Yes,yes,312
+Less then 15,Female,Urban,Over 7.5%,1.53,43,18.37,18.36900337,11y,eye problem,No,Yes,Middle quartiles,Highest quartiles,Yes,Yes,Yes,Injection,Yes,No,Yes,Yes,yes,572
+Less then 11,Female,Suburban,Over 7.5%,1.44,49,23.63,23.63040123,3y,no,No,Yes,Middle quartiles,Highest quartiles,Yes,Yes,Yes,Injection,No,Yes,No,No,yes,156
+greater then 15,Female,Rural,Over 7.5%,1.53,42,17.94,17.94181725,5y,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,Yes,Injection,No,No,Yes,Yes,yes,260
+Less then 11,Female,Urban,Less then 7.5%,1.14,17,13.08,13.08094798,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 5,Female,Urban,Less then 7.5%,0.92,10.5,12.41,12.40548204,0,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,0.92,12,14.18,14.17769376,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.19,15,10.59,10.59247228,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,1.07,15,13.1,13.10158092,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.25,21,13.44,13.44,0,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.32,31,17.79,17.79155188,0,no,No,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.12,18,14.35,14.3494898,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+greater then 15,Male,Urban,Less then 7.5%,1.75,59,19.27,19.26530612,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.14,23,17.7,17.69775315,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.09,21,17.68,17.67527986,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.14,22,16.93,16.92828563,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.22,29,19.48,19.48400967,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.19,27,19.07,19.06645011,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.3,27,15.98,15.97633136,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.25,31,19.84,19.84,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.35,29,15.91,15.9122085,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.22,25,16.8,16.79656006,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.3,39,23.08,23.07692308,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.3,29,17.16,17.15976331,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.25,29,18.56,18.56,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.19,20,14.12,14.12329638,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.22,22,14.78,14.78097286,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+greater then 15,Male,Urban,Less then 7.5%,1.65,73,26.81,26.81359045,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.3,31,18.34,18.34319527,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.17,22,16.07,16.07129812,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+greater then 15,Male,Urban,Less then 7.5%,1.52,50,21.64,21.64127424,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+greater then 15,Male,Suburban,Less then 7.5%,1.65,53,19.47,19.46740129,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.17,20,14.61,14.61027102,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 15,Male,Suburban,Less then 7.5%,1.48,39,17.8,17.80496713,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.19,30,21.18,21.18494457,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 15,Male,Suburban,Less then 7.5%,1.37,39,20.78,20.778944,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.25,24,15.36,15.36,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.14,19,14.62,14.61988304,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.27,25,15.5,15.500031,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+greater then 15,Male,Suburban,Less then 7.5%,1.55,51,21.23,21.22788762,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+greater then 15,Male,Suburban,Less then 7.5%,1.58,58,23.23,23.23345618,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.3,36,21.3,21.30177515,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,Yes,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.3,45,26.63,26.62721893,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 15,Male,Suburban,Less then 7.5%,1.48,45,20.54,20.54419284,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.22,30,20.16,20.15587208,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.3,32,18.93,18.93491124,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.3,32,18.93,18.93491124,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.65,32,11.75,11.75390266,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.63,56,21.08,21.07719523,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.32,37,21.24,21.23507805,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.58,41,16.42,16.42365006,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.27,25,15.5,15.500031,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.32,30,17.22,17.21763085,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,Yes,No,No,Yes,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.25,29,18.56,18.56,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,Yes,No,No,No,Yes,No,No,No,
+greater then 15,Male,Urban,Less then 7.5%,1.55,45,18.73,18.73048907,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.09,21,17.68,17.67527986,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.14,20,15.39,15.38935057,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.22,24,16.12,16.12469766,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.19,30,21.18,21.18494457,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.37,55,29.3,29.30363898,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.5,70,31.11,31.11111111,0,no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.09,25,21.04,21.04199983,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.25,31,19.84,19.84,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.25,20,12.8,12.8,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.01,16,15.68,15.68473679,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,Yes,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.58,45,18.03,18.02595738,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.32,35,20.09,20.087236,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.25,24,15.36,15.36,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,0.94,14,15.84,15.84427343,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Rural,Less then 7.5%,0.97,25,26.57,26.57030503,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Female,Rural,Less then 7.5%,0.74,16,29.22,29.2184076,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+greater then 15,Female,Rural,Less then 7.5%,1.52,45,19.48,19.47714681,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Female,Suburban,Less then 7.5%,0.53,7,24.92,24.91990032,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Female,Suburban,Less then 7.5%,1.58,38,15.22,15.22191956,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,0.92,24,28.36,28.35538752,0,no,Yes,Yes,Lowest quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Rural,Less then 7.5%,0.97,18,19.13,19.13061962,0,no,No,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Rural,Less then 7.5%,0.99,22,22.45,22.44668911,0,no,No,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Rural,Less then 7.5%,1.61,31,11.96,11.95941515,0,no,No,No,Highest quartiles,Highest quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Rural,Less then 7.5%,0.74,12,21.91,21.9138057,0,no,No,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Rural,Less then 7.5%,0.61,12,32.25,32.24939532,0,no,No,Yes,Middle quartiles,Highest quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Female,Rural,Less then 7.5%,1.52,35,15.15,15.14889197,0,no,Yes,No,Middle quartiles,Highest quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Rural,Less then 7.5%,0.61,9,24.19,24.18704649,0,no,Yes,No,Middle quartiles,Highest quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.3,28,16.57,16.56804734,0,no,Yes,No,Middle quartiles,Highest quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.22,25,16.8,16.79656006,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,0.97,16,17,17.00499522,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Female,Urban,Less then 7.5%,0.92,12,14.18,14.17769376,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.27,40,24.8,24.8000496,0,no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.12,24,19.13,19.13265306,0,no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.22,22,14.78,14.78097286,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.12,26,20.73,20.72704082,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.12,26,20.73,20.72704082,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.14,22,16.93,16.92828563,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.04,18,16.64,16.64201183,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.52,40,17.31,17.31301939,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.32,35,20.09,20.087236,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.3,35,20.71,20.71005917,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.37,40,21.31,21.31173744,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.22,27,18.14,18.14028487,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,0.92,18,21.27,21.26654064,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+greater then 15,Male,Urban,Less then 7.5%,1.55,64,26.64,26.63891779,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,0.79,16,25.64,25.63691716,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.3,40,23.67,23.66863905,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.67,48,17.21,17.21108681,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.35,50,27.43,27.43484225,0,no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,0.92,25,29.54,29.536862,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.25,35,22.4,22.4,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Female,Suburban,Less then 7.5%,1.3,22,13.02,13.01775148,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.17,30,21.92,21.91540653,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.35,35,19.2,19.20438957,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Suburban,Less then 7.5%,0.61,11,29.56,29.56194571,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.48,38,17.35,17.34842951,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.22,23,15.45,15.45283526,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.58,45,18.03,18.02595738,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,0.61,15,40.31,40.31174415,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Suburban,Less then 7.5%,1.63,48,18.07,18.06616734,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Rural,Less then 7.5%,1.25,25,16,16,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+greater then 15,Male,Urban,Less then 7.5%,1.7,54,18.69,18.68512111,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.17,26,18.99,18.99335233,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.27,28,17.36,17.36003472,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,0.97,25,26.57,26.57030503,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,0.98,40,41.65,41.64931279,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Rural,Less then 7.5%,0.65,18,42.6,42.6035503,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,1.05,35,31.75,31.74603175,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Suburban,Less then 7.5%,0.96,20,21.7,21.70138889,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Male,Suburban,Less then 7.5%,0.61,10,26.87,26.8744961,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 5,Female,Suburban,Less then 7.5%,0.82,12,17.85,17.84651993,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Rural,Less then 7.5%,0.76,25,43.28,43.28254848,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Rural,Less then 7.5%,0.92,30,35.44,35.4442344,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.32,45,25.83,25.82644628,0,no,Yes,No,Highest quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+greater then 15,Male,Suburban,Less then 7.5%,1.67,60,21.51,21.51385851,0,no,Yes,No,Highest quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+greater then 15,Male,Suburban,Less then 7.5%,1.67,55,19.72,19.72103697,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Female,Suburban,Less then 7.5%,1.22,40,26.87,26.8744961,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Rural,Less then 7.5%,1.27,40,24.8,24.8000496,0,no,No,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 5,Female,Suburban,Less then 7.5%,0.61,20,53.75,53.74899221,0,no,No,No,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.12,32,25.51,25.51020408,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,No,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.25,25,16,16,0,no,No,No,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.42,30,14.88,14.8780004,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.5,43,19.11,19.11111111,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.3,28,16.57,16.56804734,0,no,Yes,Yes,Highest quartiles,Middle quartiles,Yes,No,No,No,Yes,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,0.74,15,27.39,27.39225712,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.48,40,18.26,18.26150475,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+greater then 15,Female,Urban,Less then 7.5%,1.43,35,17.12,17.11575138,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.63,45,16.94,16.93703188,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.52,46,19.91,19.9099723,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Male,Urban,Less then 7.5%,1.58,50,20.03,20.02884153,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,0.92,18,21.27,21.26654064,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,0.74,15,27.39,27.39225712,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,0.44,12,61.98,61.98347107,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,0.61,12,32.25,32.24939532,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,0.74,14,25.57,25.56610665,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 15,Female,Urban,Less then 7.5%,1.43,35,17.12,17.11575138,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Urban,Less then 7.5%,1.22,15,10.08,10.07793604,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Male,Urban,Less then 7.5%,0.74,7,12.78,12.78305332,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Male,Urban,Less then 7.5%,1.01,12,11.76,11.76355259,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 11,Female,Suburban,Less then 7.5%,0.92,12,14.18,14.17769376,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Female,Suburban,Less then 7.5%,0.61,7,18.81,18.81214727,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,No,No,No,No,
+Less then 11,Female,Suburban,Less then 7.5%,0.92,12,14.18,14.17769376,0,no,Yes,Yes,Middle quartiles,Middle quartiles,Yes,No,No,No,No,Yes,No,No,No,
+Less then 5,Female,Urban,Less then 7.5%,0.61,5,13.44,13.43724805,0,no,Yes,No,Middle quartiles,Middle quartiles,Yes,No,No,No,Yes,Yes,No,No,No,
